@@ -1,0 +1,11 @@
+assemblyai==0.26.0
+jiwer==3.0.4
+matplotlib==3.8.4
+openai_whisper==20231117
+pandas==2.2.2
+pydub==0.25.1
+scikit_learn==1.4.2
+numpy==1.26.4
+spacy==3.5.3
+spacy-model-nl_core_news_lg==3.5.0
+SpeechRecognition==3.10.4
